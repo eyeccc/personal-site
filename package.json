@@ -29,7 +29,7 @@
     "gatsby-plugin-offline": "3.2.12",
     "gatsby-plugin-postcss": "2.3.5",
     "gatsby-plugin-react-helmet": "3.3.5",
-    "gatsby-plugin-sharp": "2.6.13",
+    "gatsby-plugin-sharp": "4.25.1",
     "gatsby-remark-embed-gist": "1.1.9",
     "gatsby-remark-images": "3.3.12",
     "gatsby-remark-prismjs": "3.5.5",
